@@ -12173,7 +12173,7 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Swashbuckle.AspNetCore"
+      "Swashbuckle.AspNetCore >= 4.0.1"
     ]
   },
   "packageFolders": {
@@ -12234,7 +12234,7 @@
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[4.0.1, )"
           }
         },
         "imports": [
