@@ -157,7 +157,7 @@ de porta modificados:
 
 --------------------------------------------------------------------------------
 
-Agora vá ser feliz!!!
+Agora execute um ``dotnet run`` e vá ser feliz!!!
 
 .. [#] Se você não conseguir executar estes comandos então instale os pacotes do ``libnss3``.
    No Arch Linux é só executar ``pacman -S nss``.
