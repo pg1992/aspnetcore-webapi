@@ -27,6 +27,8 @@ function getData() {
 
       $(tBody).empty();
 
+      getCount(data.length);
+
       $.each(data, function(key, item) {
         const tr = $("<tr></tr>")
           .append(
